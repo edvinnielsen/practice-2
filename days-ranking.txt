@@ -1,0 +1,7 @@
+1. Saturday
+2. Sunday
+3. Friday
+4. Thursady
+5. Wednesday
+6. Tuesday
+7. Monday
